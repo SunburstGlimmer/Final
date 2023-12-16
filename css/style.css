@@ -1,0 +1,52 @@
+.navbar {
+    background-color: #333;
+    display: flex;
+    align-items: center;
+}
+
+.navbar a {
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+.basic {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+    text-align: left;
+}
+
+img {
+    border-style: dashed;
+    border-radius: 5%;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    background-color: red;
+}
+
+h3:hover {
+    background-color: brown;
+}
+
+a {
+    background: powderblue;
+}
+
+div {
+    border-style: dotted;
+}
+
+p {
+    text-align: center;
+}
